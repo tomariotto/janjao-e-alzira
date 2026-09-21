@@ -2,9 +2,16 @@ export default function Hero() {
   return (
     <section
       id="topo"
-      className="relative bg-gradient-to-b from-teal-deep via-teal-deep to-[#0c2f2e] text-white overflow-hidden"
+      className="relative text-white overflow-hidden bg-teal-deep"
     >
-      <div className="absolute inset-0 opacity-20 [background:radial-gradient(circle_at_20%_20%,#8fd0c4_0,transparent_45%),radial-gradient(circle_at_80%_0%,#f0c419_0,transparent_35%)]" />
+      <img
+        src="/assets/hero-fundo.jpg"
+        alt=""
+        aria-hidden="true"
+        className="absolute inset-0 w-full h-full object-cover"
+      />
+      <div className="absolute inset-0 bg-gradient-to-r from-teal-deep/90 via-teal-deep/60 to-teal-deep/30" />
+      <div className="absolute inset-0 bg-gradient-to-t from-[#0c2f2e]/70 via-transparent to-transparent" />
       <div className="relative max-w-6xl mx-auto px-5 pt-14 pb-20 md:pt-20 md:pb-28 grid md:grid-cols-2 gap-12 items-center">
         <div>
           <p className="font-display text-gold text-sm md:text-base tracking-[0.2em] uppercase mb-3">
