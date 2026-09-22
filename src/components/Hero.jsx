@@ -45,9 +45,9 @@ export default function Hero() {
         </div>
         <div className="flex justify-center md:justify-end">
           <img
-            src="/assets/capa-frente.jpg"
+            src="/assets/capa-3d.png"
             alt="Capa do livro Janjão e Alzira e os Mistérios de Cavendish"
-            className="w-64 md:w-80 rounded-lg shadow-2xl rotate-1 hover:rotate-0 transition-transform duration-300"
+            className="w-56 md:w-72 hover:scale-105 transition-transform duration-300"
           />
         </div>
       </div>
