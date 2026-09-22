@@ -1,28 +1,28 @@
 const pilares = [
   {
-    emoji: '🤝',
-    title: 'Inclusão',
-    text: 'Janjão e Alzira enfrentam deficiências físicas que, na jornada, se tornam fonte de força — não de limitação.',
-  },
-  {
     emoji: '⭐',
     title: 'Virtudes',
-    text: 'Cada ilha guarda uma virtude a ser descoberta. O verdadeiro tesouro está no caráter, não na magia.',
+    text: 'Ilhas enigmáticas que podem lhes ensinar virtudes importantes para a vida e o bem da humanidade. Janjão e Alzira terão que viver a aventura para descobri-las.',
   },
   {
-    emoji: '🙏',
-    title: 'Fé',
-    text: 'Uma jornada que também fala sobre acreditar em algo maior nos momentos de dúvida e medo.',
+    emoji: '🤝',
+    title: 'Inclusão',
+    text: 'Nossos heróis estão longe de ser perfeitos, mas estão dispostos a enfrentar desafios e transformar limitações em fortaleza!',
   },
   {
     emoji: '🧭',
     title: 'Colaboração',
-    text: 'Ninguém chega sozinho ao tesouro. Olavo e Beto mostram que a jornada se faz em equipe.',
+    text: 'Ninguém é causa de si. O êxito desta aventura vai depender do espírito de equipe, da força da amizade e da união da família.',
   },
   {
-    emoji: '🌱',
-    title: 'Imperfeição',
-    text: 'Heróis que erram, duvidam e aprendem — porque ninguém precisa ser perfeito para ser extraordinário.',
+    emoji: '🇧🇷',
+    title: 'Brasil',
+    text: 'Pode até lembrar roteiro de filme estrangeiro, mas é uma aventura vivida na costa brasileira, em meio à beleza da nossa mata atlântica.',
+  },
+  {
+    emoji: '🙏',
+    title: 'Fé',
+    text: 'Uma jornada que também fala sobre acreditar em algo maior, capaz de transformar o medo em esperança.',
   },
 ]
 
