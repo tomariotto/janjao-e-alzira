@@ -5,7 +5,7 @@ export default function Sobre() {
         <div>
           <p className="font-display text-teal uppercase tracking-[0.2em] text-sm mb-2">O livro</p>
           <h2 className="font-display text-3xl md:text-4xl text-teal-deep mb-6">
-            Uma história real de ficção
+            Uma história intrigante e envolvente!
           </h2>
           <p className="text-lg leading-relaxed mb-4">
             Janjão e Alzira são dois adolescentes que, durante uma excursão escolar a Paraty,
@@ -24,15 +24,32 @@ export default function Sobre() {
           </p>
         </div>
         <div className="bg-teal-deep/5 border border-teal-deep/10 rounded-2xl p-8">
-          <h3 className="font-display text-xl text-teal-deep mb-4">Baseado em fatos reais</h3>
+          <h3 className="font-display text-xl text-teal-deep mb-4">Uma ficção que se mistura com fatos reais</h3>
           <p className="leading-relaxed">
             É uma história brasileira intrigante que mistura ficção com fatos que de fato
             ocorreram há séculos na costa do Brasil: o corsário inglês{' '}
             <strong>Thomas Cavendish</strong>, com seus tesouros, e o tripulante{' '}
-            <strong>Anthony Knivet</strong> realmente existiram. A partir desses personagens e
-            fatos envolventes, nasceu uma trama pensada para transmitir mensagens importantes aos
-            jovens sobre inclusão, virtudes, fé, colaboração e imperfeição.
+            <strong>Anthony Knivet</strong> realmente existiram.
           </p>
+          <div className="mt-6 pt-6 border-t border-teal-deep/10">
+            <p className="text-sm font-display text-teal-deep mb-3">Saiba mais</p>
+            <ul className="space-y-2 text-sm leading-relaxed">
+              <li>
+                <a
+                  href="https://pt.wikipedia.org/wiki/Thomas_Cavendish"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-teal hover:text-teal-deep underline underline-offset-2"
+                >
+                  Thomas Cavendish — Wikipédia
+                </a>
+              </li>
+              <li>EDSON, Paulo. <em>Thomas Cavendish: O Corsário de Ilhabela.</em></li>
+              <li>
+                HUE, Sheila; KNIVET, Anthony. <em>As incríveis aventuras e estranhos infortúnios de Anthony Knivet.</em>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>

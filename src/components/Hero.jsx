@@ -15,11 +15,11 @@ export default function Hero() {
       <div className="relative max-w-6xl mx-auto px-5 pt-14 pb-20 md:pt-20 md:pb-28 grid md:grid-cols-2 gap-12 items-center">
         <div>
           <p className="font-display text-gold text-sm md:text-base tracking-[0.2em] uppercase mb-3">
-            Uma aventura brasileira
+            Uma aventura brasileira!
           </p>
-          <h1 className="font-display text-4xl md:text-5xl leading-tight mb-4">
+          <h1 className="font-display text-4xl md:text-5xl leading-tight mb-4 text-white">
             Janjão e Alzira
-            <span className="block text-2xl md:text-3xl text-teal-light mt-1">
+            <span className="block text-2xl md:text-3xl mt-1">
               e os Mistérios de Cavendish
             </span>
           </h1>
