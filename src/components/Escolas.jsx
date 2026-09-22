@@ -25,7 +25,7 @@ export default function Escolas() {
             Baixar apresentação (PDF)
           </a>
           <a
-            href="mailto:tomariotto@gmail.com?subject=Janj%C3%A3o%20e%20Alzira%20-%20Contato%20institucional&body=Ol%C3%A1%2C%20Tom%C3%A1s!%20Gostaria%20de%20saber%20mais%20sobre%20levar%20Janj%C3%A3o%20e%20Alzira%20para%20a%20nossa%20institui%C3%A7%C3%A3o."
+            href="mailto:contato@janjaoealzira.com.br?subject=Janj%C3%A3o%20e%20Alzira%20-%20Contato%20institucional&body=Ol%C3%A1%2C%20Tom%C3%A1s!%20Gostaria%20de%20saber%20mais%20sobre%20levar%20Janj%C3%A3o%20e%20Alzira%20para%20a%20nossa%20institui%C3%A7%C3%A3o."
             className="border-2 border-white/70 hover:bg-white/10 font-bold text-center px-6 py-3 rounded-full transition-colors"
           >
             Falar com o autor

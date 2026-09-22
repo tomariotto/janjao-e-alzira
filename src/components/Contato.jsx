@@ -10,10 +10,10 @@ export default function Contato() {
       </p>
       <p className="font-display text-xl text-teal-deep mb-6">Vamos conversar!</p>
       <a
-        href="mailto:tomariotto@gmail.com"
+        href="mailto:contato@janjaoealzira.com.br"
         className="inline-block bg-teal-deep hover:bg-teal text-white font-bold px-8 py-3 rounded-full transition-colors"
       >
-        tomariotto@gmail.com
+        contato@janjaoealzira.com.br
       </a>
     </section>
   )
