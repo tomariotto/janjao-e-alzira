@@ -23,13 +23,6 @@ export default function Autor() {
             mais de vinte anos no mercado financeiro, tendo a criatividade e o design como
             companheiros fiéis. Nasceu em São Paulo-SP, é casado e pai de três filhos.
           </p>
-          <p className="text-lg leading-relaxed">
-            Os personagens Janjão e Alzira foram criados por seu falecido pai, Fábio. Décadas
-            depois, Tomás retomou as histórias da dupla para contar aos próprios filhos — desta
-            vez trazendo elementos que de fato ocorreram na história do Brasil, e uma reflexão
-            sobre superioridade e perfeição inspirada por seu filho, que possui deficiência
-            auditiva.
-          </p>
         </div>
       </div>
     </section>
