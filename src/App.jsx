@@ -11,7 +11,7 @@ import Footer from './components/Footer.jsx'
 
 export default function App() {
   return (
-    <div className="overflow-x-hidden">
+    <div className="overflow-x-clip">
       <Header />
       <Hero />
       <Sobre />

@@ -6,10 +6,10 @@ const lojas = [
     cta: 'Comprar na Amazon',
   },
   {
-    nome: 'Editora Tanta Tinta',
+    nome: 'Editora TantaTinta',
     desc: 'Compre direto com a editora responsável pela publicação.',
     href: 'https://tantatinta.com.br/livro/janjao-e-alzira-e-os-misterios-de-cavendish/',
-    cta: 'Comprar na Tanta Tinta',
+    cta: 'Comprar na TantaTinta',
   },
 ]
 
